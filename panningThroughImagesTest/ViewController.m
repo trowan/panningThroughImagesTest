@@ -27,12 +27,21 @@
 
 #import "ViewController.h"
 
+<<<<<<< HEAD
 //#define IMAGE_SOURCE1 "http://images.apple.com/v20121208160528/startpage/images/promo_ipad_mini.jpg"
 //#define IMAGE_SOURCE2 "http://images.apple.com/v20121208160528/startpage/images/promo_macbook_pro.jpg"
 //#define IMAGE_SOURCE3 "http://images.apple.com/v20121208160528/startpage/images/promo_ipod_nano.jpg"
 #define IMAGE_SOURCE4 "http://static.adzerk.net/Advertisers/bd294ce7ff4c43b6aad4aa4169fb819b.jpg"
 #define IMAGE_SOURCE5 "http://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Litoria_infrafrenata_-_Julatten.jpg/350px-Litoria_infrafrenata_-_Julatten.jpg"
 #define IMAGE_SOURCE6 "http://cdn5.raywenderlich.com/wp-content/uploads/2011/11/UIGestureRecognizers.jpg"
+=======
+#define IMAGE_SOURCE1 "http://images.apple.com/v20121208160528/startpage/images/promo_ipad_mini.jpg"
+#define IMAGE_SOURCE2 "http://images.apple.com/v20121208160528/startpage/images/promo_macbook_pro.jpg"
+#define IMAGE_SOURCE3 "http://images.apple.com/v20121208160528/startpage/images/promo_ipod_nano.jpg"
+//#define IMAGE_SOURCE4 "http://static.adzerk.net/Advertisers/bd294ce7ff4c43b6aad4aa4169fb819b.jpg"
+//#define IMAGE_SOURCE5 "http://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Litoria_infrafrenata_-_Julatten.jpg/350px-Litoria_infrafrenata_-_Julatten.jpg"
+//#define IMAGE_SOURCE6 "http://cdn5.raywenderlich.com/wp-content/uploads/2011/11/UIGestureRecognizers.jpg"
+>>>>>>> commented out bottom 3
 
 // edges of the iPhone screen
 #define lBOUNDARY 0
